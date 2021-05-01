@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppMovies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in_fragment_user">Usuario</string>
+    <string name="log_in_fragment_password">Contraseña</string>
+    <string name="log_in_fragment_enter">Ingresar</string>
+    <string name="log_in_fragment_error">Ingrese los datos correctamente</string>
+</resources>
